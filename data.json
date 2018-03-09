@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Hamburger",
+    "number": "2342003208",
+    "description": "A juicy, 100% pure beef burger patty topped with a tangy pickle, chopped onions, ketchup and mustard. Our simple, juicy hamburgers are made with absolutely no fillers, additives or preservatives, and seasoned with just a pinch of salt and pepper.",
+    "images": [
+      {
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/regular/desktop/t-mcdonalds-Hamburger.png",
+        "name": "A photo of a burger"
+      },
+      {
+        "url": "https://www.mcdonalds.com/content/dam/usa/thumbnails/ctq/v2/Commt_KidsNut_960x542.jpg",
+        "name": "A box of a burger"
+      },
+      {
+        "url": "https://www.mcdonalds.com/content/dam/usa/thumbnails/ctq/v2/Commt_PIP_960x542.jpg",
+        "name": "A beef"
+      }
+    ]
+  },
+  {
+    "name": "Cheeseburger",
+    "number": "1106205779",
+    "description": "A juicy, 100% pure beef patty with absolutely no fillers, additives or preservatives, seasoned with a pinch of salt and pepper, and topped with a tangy pickle, chopped onions, ketchup, mustard, and a slice of melty American cheese.",
+    "images": [
+      {
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/regular/desktop/t-mcdonalds-Cheeseburger.png",
+        "name": "A photo of a burger"
+      },
+      {
+        "url": "https://www.mcdonalds.com/content/dam/usa/thumbnails/ctq/v2/Commt_KidsNut_960x542.jpg",
+        "name": "A box of a burger"
+      }
+    ]
+  },
+  {
+    "name": "Double Cheeseburger",
+    "number": "9999511692",
+    "description": "Double Cheeseburger features two 100% pure beef patties with absolutely no fillers, additives or preservatives, seasoned with a pinch of salt and pepper, and topped with tangy pickles, chopped onions, ketchup, mustard and two slices of melty American cheese.",
+    "images": [
+      {
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/regular/desktop/t-mcdonalds-Double-Cheeseburger.png",
+        "name": "A photo of a burger"
+      }
+    ]
+  },
+  {
+    "name": "Triple Cheeseburger",
+    "number": "5727456128",
+    "description": "The Triple Cheeseburger is a juicy burger made with three 100% pure beef patties with absolutely no fillers, additives or preservatives, simply seasoned with a pinch of salt and pepper, and topped with tangy pickles, chopped onions, ketchup, mustard and two slices of melty American cheese.",
+    "images": [
+      {
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/regular/desktop/t-mcdonalds-Triple-Cheeseburger.jpg",
+        "name": "A photo of a burger"
+      },
+      {
+        "url": "https://www.mcdonalds.com/content/dam/usa/thumbnails/ctq/v2/Commt_KidsNut_960x542.jpg",
+        "name": "A box of a burger"
+      }
+    ]
+  },
+  {
+    "name": "McDouble",
+    "number": "7572505057",
+    "description": "McDouble burger features two 100% pure beef patties with absolutely no fillers, additives or preservatives, seasoned with a pinch of salt and pepper, and topped with tangy pickles, chopped onions, ketchup, mustard and a slice of melty American cheese.",
+    "images": [
+      {
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/regular/desktop/t-mcdonalds-McDouble.png",
+        "name": "A photo of a burger"
+      },
+      {
+        "url": "https://www.mcdonalds.com/content/dam/usa/thumbnails/ctq/v2/Commt_KidsNut_960x542.jpg",
+        "name": "A box of a burger"
+      }
+    ]
+  },
+  {
+    "name": "McChicken",
+    "number": "1602112587",
+    "description": "Deliciously crispy chicken topped with mayonnaise, shredded lettuce, and served on a perfectly toasty bun.",
+    "images": [
+      {
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/regular/desktop/t-mcdonalds-McChicken.png",
+        "name": "A photo of a burger"
+      },
+      {
+        "url": "https://www.mcdonalds.com/content/dam/usa/thumbnails/ctq/v2/Commt_KidsNut_960x542.jpg",
+        "name": "A box of a burger"
+      }
+    ]
+  },
+  {
+    "name": "Big Mac",
+    "number": "9852666427",
+    "description": "Mouthwatering perfection starts with two 100% pure beef patties and Big Mac sauce sandwiched between a sesame seed bun. American cheese, crisp lettuce, onions and pickles top it off. Rediscover the love for the Big Mac and its special sauce.",
+    "images": [
+      {
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/regular/desktop/t-mcdonalds-Big-Mac.png",
+        "name": "A photo of a burger"
+      },
+      {
+        "url": "https://www.mcdonalds.com/content/dam/usa/thumbnails/ctq/v2/Commt_KidsNut_960x542.jpg",
+        "name": "A box of a burger"
+      }
+    ]
+  },
+  {
+    "name": "Grand Big Mac",
+    "number": "6103024249",
+    "description": "When that Big Mac craving calls for something more, sink into two larger 100% pure beef patties with salt & pepper sandwiched between a sesame seed bun. All dressed with two times the special sauce and two slices of American cheese, crisp lettuce, onions and pickles to top it off. Rediscover the love for this iconic burger for a limited time.",
+    "images": [
+      {
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/regular/desktop/t-mcdonalds-Grand-Mac.png",
+        "name": "A photo of a burger"
+      },
+      {
+        "url": "https://www.mcdonalds.com/content/dam/usa/thumbnails/ctq/v2/Commt_KidsNut_960x542.jpg",
+        "name": "A box of a burger"
+      }
+    ]
+  },
+  {
+    "name": "Pico Guacamole with 100% Pure Beef ",
+    "number": "5971312279",
+    "description": "Layered with guacamole made with real Hass avocados; freshly-prepared Pico de Gallo made with Roma tomatoes, onions, and the flavors of lime and cilantro; creamy buttermilk ranch sauce; smooth white cheddar; and crisp leaf lettuce. On a 1/4 lb. of 100% pure beef with absolutely no fillers, additives or preservatives. Choose an artisan roll or sesame seed bun.",
+    "images": [
+      {
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/regular/desktop/t-mcdonalds-picoguac-sesame.png",
+        "name": "A photo of a burger"
+      },
+      {
+        "url": "https://www.mcdonalds.com/content/dam/usa/thumbnails/ctq/v2/Commt_KidsNut_960x542.jpg",
+        "name": "A box of a burger"
+      }
+    ]
+  },
+  {
+    "name": "Sweet BBQ Bacon with 100% Pure Beef",
+    "number": "4365066743",
+    "description": "Layered with BBQ sauce made with sweet onions, thick-cut Applewood smoked bacon, grilled & crispy onions, and smooth white cheddar. On a 1/4lb. of 100% pure beef with absolutely no fillers, additives, or preservatives. Choose an artisan roll or sesame seed bun.",
+    "images": [
+      {
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/regular/desktop/t-mcdonalds-sweetbbqbacon-sesame.png",
+        "name": "A photo of a burger"
+      },
+      {
+        "url": "https://www.mcdonalds.com/content/dam/usa/thumbnails/ctq/v2/Commt_KidsNut_960x542.jpg",
+        "name": "A box of a burger"
+      }
+    ]
+  },
+  {
+    "name": "Quarter Pounder with Cheese",
+    "number": "4608579033",
+    "description": "Quarter Pounder with Cheese burger features a ¼ lb. of 100% pure beef with absolutely no fillers, additives or preservatives. Just a pinch of salt and pepper, and seared on our grills so it’s thick and juicy. Layered with two slices of melty American cheese, slivered onions and tangy pickles on a sesame seed bun.",
+    "images": [
+      {
+        "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nutrition/items/regular/desktop/t-mcdonalds-Quarter-Pounder-with-Cheese.png",
+        "name": "A photo of a burger"
+      },
+      {
+        "url": "https://www.mcdonalds.com/content/dam/usa/thumbnails/ctq/v2/Commt_KidsNut_960x542.jpg",
+        "name": "A box of a burger"
+      }
+    ]
+  }
+]

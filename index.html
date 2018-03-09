@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="styles.css">
+  <title>Product list application</title>
+  <script src="vue.min.js"></script>
+  <script src="vuex.js"></script>
+</head>
+
+<body>
+  <div id="vue-app">
+    <div id="header">List of all Products</div>
+    <div id="content">
+      <div v-for="(product, index) in products" class="product">
+        <img v-if="typeof product.images[0] !== 'undefined'" v-bind:src="product.images[0].url">
+        <div class="name"><a v-bind:href=" 'product.html?number=' + index">{{ product.name }}</a></div>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>

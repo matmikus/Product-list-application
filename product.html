@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="styles.css">
+  <title>Product list application</title>
+  <script src="vue.min.js"></script>
+  <script src="vuex.js"></script>
+</head>
+
+<body>
+  <div id="vue-app">
+    <div id="header">Product detail</div>
+    <div id="content">
+      <div v-if="products[currentProduct] != undefined" class="productDetail">
+        <div>
+          <label>Name</label>
+          <input v-model="products[currentProduct].name" v-bind:readonly="!edition">
+        </div>
+        <div>
+          <label>Number</label>
+          <input v-model="products[currentProduct].number" v-bind:readonly="!edition">
+        </div>
+        <div>
+          <label>Description</label>
+          <textarea v-model="products[currentProduct].description" v-bind:readonly="!edition"></textarea>
+        </div>
+        <div v-for="(image, index) in products[currentProduct].images" class="imageDetail">
+          <div>Image {{ index + 1 }}</div>
+          <div>
+            <label>URL</label><input v-model="image.url" v-bind:readonly="!edition">
+          </div>
+          <div>
+            <label>Name</label><input v-model="image.name" v-bind:readonly="!edition">
+          </div>
+          <div>
+            <label>Preview</label><img v-bind:src="image.url">
+          </div>
+        </div>
+        <div class="buttons">
+          <button v-if="edition == false" @click="enableEdition" type="button">UPDATE</button>
+          <button v-if="edition == true" @click="savingPromise" type="button">SAVE</button>
+          <button v-if="edition == true" @click="disableEdition" type="button">CANCEL</button>
+        </div>
+        <div class="message">
+          {{ message }}
+        </div>
+      </div>
+    </div>
+    <div class="backLink">
+      <a href="index.html">Back to the List of all Products</a>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
